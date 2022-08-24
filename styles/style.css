@@ -21,6 +21,7 @@
 }
 
 nav ul li a{
+display: flex;
 background-color: brown;
 text-decoration: none;
 font-size:medium;
@@ -72,22 +73,18 @@ ul {
 }
 /*aca terminan los estilos del footer*/
 
-
+/* aca comienzas los estilos de la pagina Servicios*/
 .controlyseguridad{
     list-style-type: none;
     display:flex;
     justify-content: center;
 }
 
-.servicios{
-    list-style-type: none;
-    display:flex;
-    justify-content: center; 
-}
 
 .mapa{
 text-align: center;
 }
+
 
 /*Grillas index*/
 
